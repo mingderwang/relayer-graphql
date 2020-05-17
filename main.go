@@ -1,5 +1,5 @@
 /*
-Copyright © 2020 NAME HERE <EMAIL ADDRESS>
+Copyright © 2020 Ming-der Wang <ming@bimap.co>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -15,8 +15,10 @@ limitations under the License.
 */
 package main
 
-import "github.com/mingderwang/relayer-graphql/cmd"
+import ( 
+"github.com/mingderwang/relayer-graphql/cmd"
+)
 
 func main() {
-	cmd.Execute()
+	  cmd.Execute()
 }
